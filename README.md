@@ -49,4 +49,4 @@ This project is an Android application designed to fetch JSON data from a given 
 
 ## Conclusion
 
-This app showcases the use of modern Android development tools and practices to create a responsive and user-friendly application. It demonstrates data fetching, processing, and displaying using Kotlin, MVVM architecture and Jetpack Compose.
+This app showcases the use of modern Android development tools and practices to create a responsive and user-friendly application. It demonstrates data fetching, processing, and displaying using Kotlin, MVVM architecture and Jetpack Compose...
